@@ -1,0 +1,7 @@
+.nav_a_li:hover{
+    background: red;
+}
+
+.nav_a:hover{
+    color: white;
+}
